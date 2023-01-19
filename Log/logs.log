@@ -1,0 +1,76 @@
+INFO:root:Robô Iniciado - 2023-01-18 22:00:36.206664
+INFO:root:Inicializando o selenium- 2023-01-18 22:00:36.212095
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 109.0.5414
+INFO:WDM:Driver [C:\Users\gustavo.silva\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+INFO:root:Realizando Login- 2023-01-18 22:00:44.306432
+INFO:root:Iniciado a extração dos dados- 2023-01-18 22:00:49.353571
+INFO:root:Robô Iniciado - 2023-01-18 22:04:49.323117
+INFO:root:Inicializando o selenium- 2023-01-18 22:04:49.323117
+INFO:root:Robô Iniciado - 2023-01-18 22:05:15.030709
+INFO:root:Inicializando o selenium- 2023-01-18 22:05:18.170580
+INFO:root:Robô Iniciado - 2023-01-18 22:05:38.130681
+INFO:root:Inicializando o selenium- 2023-01-18 22:05:41.061602
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 109.0.5414
+INFO:WDM:Driver [C:\Users\gustavo.silva\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+INFO:root:Realizando Login- 2023-01-18 22:05:51.688422
+INFO:root:Iniciado a extração dos dados- 2023-01-18 22:05:57.592732
+INFO:root:Salvando dados em arquivo csv- 2023-01-18 22:06:01.918962
+INFO:root:Robô Iniciado - 2023-01-18 22:07:45.751200
+INFO:root:Inicializando o selenium- 2023-01-18 22:07:45.756753
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 109.0.5414
+INFO:WDM:Driver [C:\Users\gustavo.silva\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+INFO:root:Realizando Login- 2023-01-18 22:07:50.238976
+INFO:root:Iniciado a extração dos dados- 2023-01-18 22:07:55.252766
+INFO:root:Salvando dados em arquivo csv- 2023-01-18 22:07:58.901085
+INFO:root:Robô Iniciado - 2023-01-18 22:08:19.085891
+INFO:root:Inicializando o selenium- 2023-01-18 22:08:19.090188
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 109.0.5414
+INFO:WDM:Driver [C:\Users\gustavo.silva\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+INFO:root:Realizando Login- 2023-01-18 22:08:24.046276
+INFO:root:Iniciado a extração dos dados- 2023-01-18 22:08:30.333683
+INFO:root:Salvando dados em arquivo csv- 2023-01-18 22:08:34.373115
+INFO:root:Robô Iniciado - 2023-01-18 22:09:15.803967
+INFO:root:Inicializando o selenium- 2023-01-18 22:09:15.803967
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 109.0.5414
+INFO:WDM:Driver [C:\Users\gustavo.silva\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+INFO:root:Realizando Login- 2023-01-18 22:09:20.111760
+INFO:root:Iniciado a extração dos dados- 2023-01-18 22:09:25.300820
+INFO:root:Salvando dados em arquivo csv- 2023-01-18 22:09:28.922151
+INFO:root:You cannot set both the how and thresh arguments at the same time.- 2023-01-18 22:09:29.040146
+INFO:root:Robô Iniciado - 2023-01-18 22:10:01.810820
+INFO:root:Inicializando o selenium- 2023-01-18 22:10:01.810820
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 109.0.5414
+INFO:WDM:Driver [C:\Users\gustavo.silva\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+INFO:root:Realizando Login- 2023-01-18 22:10:06.000954
+INFO:root:Iniciado a extração dos dados- 2023-01-18 22:10:11.845569
+INFO:root:Salvando dados em arquivo csv- 2023-01-18 22:10:15.410940
+INFO:root:Robô Iniciado - 2023-01-18 22:11:05.873256
+INFO:root:Inicializando o selenium- 2023-01-18 22:11:05.873256
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 109.0.5414
+INFO:WDM:Driver [C:\Users\gustavo.silva\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+INFO:root:Realizando Login- 2023-01-18 22:11:10.256577
+INFO:root:Iniciado a extração dos dados- 2023-01-18 22:11:15.529283
+INFO:root:Salvando dados em arquivo csv- 2023-01-18 22:11:19.107960
+INFO:root:Robô Iniciado - 2023-01-18 22:12:57.956434
+INFO:root:Inicializando o selenium- 2023-01-18 22:12:57.956434
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 109.0.5414
+INFO:WDM:Driver [C:\Users\gustavo.silva\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+INFO:root:Realizando Login- 2023-01-18 22:13:02.046263
+INFO:root:Iniciado a extração dos dados- 2023-01-18 22:13:07.156533
+INFO:root:Salvando dados em arquivo csv- 2023-01-18 22:13:10.822005
+INFO:root:Robô Iniciado - 2023-01-18 22:15:10.274826
+INFO:root:Inicializando o selenium- 2023-01-18 22:15:10.281374
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 109.0.5414
+INFO:WDM:Driver [C:\Users\gustavo.silva\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+INFO:root:Realizando Login- 2023-01-18 22:15:14.866437
+INFO:root:Iniciado a extração dos dados- 2023-01-18 22:15:20.308021
+INFO:root:Salvando dados em arquivo csv- 2023-01-18 22:15:23.996958
